@@ -1,4 +1,4 @@
-# FLuterWebのCIの練習
+# FlutterWebのCIの練習
 
 A new Flutter project.
 
